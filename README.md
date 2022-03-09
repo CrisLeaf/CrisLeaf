@@ -38,6 +38,11 @@ width="40" height="40"/>
 </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
 </a> 
+<a href="https://optuna.org/" target="_blank" rel="noreferrer"> <img src="icons/optuna.png" 
+width="40" 
+height="40"/> 
+</a> 
+
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/></a>
 
@@ -58,7 +63,7 @@ width="40" height="40"/>
 <a href="https://www.statsmodels.org" target="_blank" rel="noreferrer">
 <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" width="54"/>
 </a>
-<a hred="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40"/>
 </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
