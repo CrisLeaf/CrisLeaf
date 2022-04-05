@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning and Artificial Intelligence.**
 
-- 📝 I regularly write articles on [Mathematics and Data Science.](https://crisleaf.medium.com/)
+- 📝 I regularly write articles on [Mathematics and Data Science.](https://cris-torres.medium.com/)
 
 - 📫 How to reach me: **cristobal_javier@hotmail.com**
 
