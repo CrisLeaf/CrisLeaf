@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cris-torres-rojas-a0a972205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cris-torres-rojas-a0a972205/" height="30" width="40" /></a>
-<a href="https://medium.com/@crisleaf" target="blank"><img 
+<a href="https://cris-torres.medium.com/" target="blank"><img 
 align="center" style="border-radius:10px;" src="icons/medium.png" alt="@crisleaf" height="40"/></a>
 </p>
 
