@@ -17,7 +17,7 @@ I am a graduated Mathematician and I am currently working as a Data Scientist. P
 
 ---------------------------------------------------------------------------------------------------------------------
 
-# Skills
+# My Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -26,3 +26,8 @@ I am a graduated Mathematician and I am currently working as a Data Scientist. P
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+# My GitHub Stats
