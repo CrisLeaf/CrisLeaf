@@ -28,10 +28,3 @@ I am a graduated Mathematician and I am currently working as a Data Scientist. P
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 
----------------------------------------------------------------------------------------------------------------------
-
-# My GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=CrisLeaf&count_private=true&show_icons=true&theme=apprentice" alt="github states"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisLeaf&exclude_repo=klee1611.github.io&layout=compact&theme=apprentice" alt="Top langs">
-
