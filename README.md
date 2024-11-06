@@ -1,4 +1,4 @@
-# Hi, I'm Cristóbal Torres. 
+# Hi, I'm Cristóbal Torres. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
@@ -31,3 +31,4 @@ I am a graduated Mathematician and I am currently working as a Data Scientist. P
 ---------------------------------------------------------------------------------------------------------------------
 
 # My GitHub Stats
+
