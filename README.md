@@ -32,3 +32,4 @@ I am a graduated Mathematician and I am currently working as a Data Scientist. P
 
 # My GitHub Stats
 
+![CrisLeaf's github stats](https://github-readme-stats.vercel.app/api?username=CrisLeaf&theme=gruvbox&show_icons=true)
