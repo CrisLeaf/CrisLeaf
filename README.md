@@ -32,4 +32,8 @@ I am a graduated Mathematician and I am currently working as a Data Scientist. P
 
 # My GitHub Stats
 
-![CrisLeaf's github stats](https://github-readme-stats.vercel.app/api?username=CrisLeaf&theme=gruvbox&show_icons=true)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=CrisLeaf&count_private=true&show_icons=true&theme=apprentice" alt="github states"> 
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisLeaf&exclude_repo=klee1611.github.io&layout=compact&theme=apprentice" alt="Top langs">
+</p>
