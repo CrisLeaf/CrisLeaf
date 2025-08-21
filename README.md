@@ -8,8 +8,8 @@ I am a graduated Mathematician and currently working as a Data Scientist. Python
 - 🌱 I’m currently exploring:
   
     - Quantitative Trading & Algorithmic strategies
-    - C++
     - Plotly Dashboards
+    - C++
     
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help.
