@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a graduated Mathematician and currently working as a Data Scientist. Python is my main programming language. **I am interested in Data Analysis, Machine Learning, Artificial Intelligence, and trading algorithms.**
+I am a graduated Mathematician and currently working as a Data Scientist. Python is my main programming language. **I am interested in Data Analysis, Machine Learning, Artificial Intelligence, and Trading Algorithms.**
 - 🌱 I’m currently exploring:
   
     - Quantitative Trading & Algorithmic strategies
