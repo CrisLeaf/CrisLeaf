@@ -6,9 +6,10 @@
 
 I am a graduated Mathematician and currently working as a Data Scientist. Python is my main programming language. **I am interested in Data Analysis, Machine Learning, Artificial Intelligence, and trading algorithms.**
 - 🌱 I’m currently exploring:
-  -Quantitative Trading & Algorithmic strategies
-  - C++
-  - Plotly Dashboards
+  
+    -Quantitative Trading & Algorithmic strategies
+    - C++
+    - Plotly Dashboards
     
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help.
