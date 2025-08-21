@@ -4,12 +4,13 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a graduated Mathematician and currently working as a Data Scientist. Python is my main programming language.  
+I am a graduated Mathematician and currently working as a Data Scientist. Python is my main programming language.
 * **I am interested in Data Analysis, Machine Learning, Artificial Intelligence, and trading algorithms.**
 - 🌱 I’m currently exploring:
-  - FastAPI
-  - Plotly/Dash
-  - Quantitative Trading & Algorithmic strategies
+  -Quantitative Trading & Algorithmic strategies
+  - C++
+  - Plotly Dashboards
+    
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help.
 - Outside tech, 💜 I love practicing sports like calisthenics 🤸 and karate 🥋, and playing videogames 🎮.  
@@ -30,4 +31,4 @@ I am a graduated Mathematician and currently working as a Data Scientist. Python
 ---
 
 # Fun fact
-🚀 Currently trying to *ethically hack the trading world* with Python and AI.
+🚀 Currently trying to *ethically hack the trading world* with AI.
